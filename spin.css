@@ -61,7 +61,7 @@ span{
       top: 120px;
       left: 0;
 }
-spopt5{
+.spopt5{
       clip-path: polygon(100% 92%, 0 50%, 100% 8%);
       background-color: orange ;
       top: 120px;
