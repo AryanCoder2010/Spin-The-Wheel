@@ -55,6 +55,31 @@ span{
         width: 100%;
         transform: rotate(-136deg);
  }
+.spopt4{
+      clip-path: polygon( 0% 92%, 100% 50%, 0% 8%);
+      background-color: green;
+      top: 120px;
+      left: 0;
+}
+spopt5{
+      clip-path: polygon(100% 92%, 0 50%, 100% 8%);
+      background-color: orange ;
+      top: 120px;
+      right: 0;
+}
+.spopt6{
+      clip-path: polygon(50% 0%, 8% 100%, 92% 100%);
+      background-color:  purple;
+      left: 120px;
+      bottom: 0;
+}
+.spopt7{
+      clip-path: polygon(50% 100%, 92% 0%, 8% 0%);  
+      background-color:  rgb(231, 149, 163);
+      left: 120px;
+      top: 0px;
+     
+}
  span strong{
         height: 65px;
         width: 65px;
